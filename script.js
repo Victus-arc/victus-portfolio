@@ -1,5 +1,5 @@
 // ================================
-// VIVID PORTFOLIO
+// VICTUS PORTFOLIO
 // Simple interaction layer
 // ================================
 
@@ -59,5 +59,5 @@ document.addEventListener("mousemove", (event) => {
 // Console message
 
 console.log(
-  "VIVID PORTFOLIO // SYSTEM ONLINE"
+  "VICTUS PORTFOLIO // SYSTEM ONLINE"
 );
