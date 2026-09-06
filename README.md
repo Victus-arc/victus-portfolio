@@ -1,6 +1,6 @@
-# VICTUS — Developer Portfolio
+# VICTUS — Portfolio
 
-This is the repository for my personal portfolio website, **VICTUS**. I built it using pure HTML,CSS and JS to serve as a clean, minimal space to showcase my work and learning journey.
+This is the repository for my personal portfolio website. I built it using pure HTML,CSS and JS to serve as a clean, minimal space to showcase my work and learning journey.
 
 ##  Open in StackBlitz
 
